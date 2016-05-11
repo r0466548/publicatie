@@ -1,0 +1,1345 @@
+{
+  "settings": {
+    "currentPage": "index.html",
+    "versionFirst": "2.8.6",
+    "versionPublish": "2.9",
+    "name": "Wallenus Jolien_standaard",
+    "favicon": "",
+    "google-analytics": "<script>\r\n  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){\r\n  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),\r\n  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)\r\n  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');\r\n\r\n  ga('create', 'UA-74617232-1', 'auto');\r\n  ga('send', 'pageview');\r\n\r\n</script>",
+    "publishType": "local",
+    "publishPath": "file:///Users/admin/Desktop/portfolio/website/project_NL/publicatie/publicatie",
+    "path": "file:///Users/admin/Desktop/portfolio/website/project_NL",
+    "screenshot": "screenshot.png",
+    "cookiesAlert": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>."
+  },
+  "pages": {
+    "vrienden.html": {
+      "settings": {
+        "meta_descr": "vrienden",
+        "title": "vrienden"
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#ffffff"
+            },
+            ".mbr-navbar__section": {
+              "background": "#ffffff"
+            },
+            ".mbr-navbar__items a": {
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "font-size": "14px"
+            }
+          },
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-0",
+          "_params": {
+            "color": "#ffffff",
+            "hamburgerColor": "#ffffff",
+            "transparent": false,
+            "sticky": false,
+            "collapsed": false,
+            "logo": false,
+            "showBrand": false,
+            "showButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "images/logo.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
+          "items": " <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">HOME</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"GO 2016.html\">GRAFISCH ONTWERP</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"tekeningen.html\">TEKENINGEN</a></li>   <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"vrienden.html\">VRIENDEN</a></li>   ",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>"
+        },
+        {
+          "_name": "buttons1",
+          "_styles": {
+            ".btn": {
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+            }
+          },
+          "_anchor": "buttons1-18",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://48ecfd7d7ddf50715ba84f981d1be45c002000c4.googledrive.com/host/0B40etFtfSsgKYVdvWEMwTUlPTjA/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">JULIE</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\" googledrive.com/host/0BzBnDgTHbf9EakkyWUdWSGI2VE0\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">LORE</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://c27b020f9c92473c2396913c78fe0442db08f7c6.googledrive.com/host/0B_Vg-L0_XECpMjhJY3ZmUlBfOXc/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MAYKE</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://e7aaf484114a267cfb9a565ca5f7a5d9ba278036.googledrive.com/host/0BzrbLojsdtJRVHV3Umx6Y2M5bkU/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">ANNELIEN</a>   "
+        },
+        {
+          "_name": "buttons1",
+          "_styles": {
+            ".btn": {
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+            }
+          },
+          "_anchor": "buttons1-19",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://f487e122e2523626a55fa89b3d8dd40d912be96e.googledrive.com/host/0B0OAJ77jzOmremhWd1pzX2JUZTA/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">CHRISTINE</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://f8af3edb095e7d1728f43d59737478e37c6bf5b6.googledrive.com/host/0By2WF0b15Z8oWE5uZmZIWW9nQ2M/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">CHARLOTTE</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://7ddc32286ed4dbe94020fe1c52887d7264bd348e.googledrive.com/host/0B2LrTCMkglgLYmo2d3RWQnQzbms/page1.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MARGOT</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://a42fdb84ac3b14828437e264a2ff11ae56488a97.googledrive.com/host/0ByvfW8Q2YKbITlZ5a3lQTzNvQk0/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">SOFIE</a>"
+        }
+      ]
+    },
+    "tekeningen.html": {
+      "settings": {
+        "title": "tekeningen",
+        "meta_descr": " tekeningen, 2014, 2015, 2016"
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#ffffff"
+            },
+            ".mbr-navbar__section": {
+              "background": "#ffffff"
+            },
+            ".mbr-navbar__items a": {
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "font-size": "14px"
+            }
+          },
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-0",
+          "_params": {
+            "color": "#ffffff",
+            "hamburgerColor": "#ffffff",
+            "transparent": false,
+            "sticky": false,
+            "collapsed": false,
+            "logo": false,
+            "showBrand": false,
+            "showButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "images/logo.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
+          "items": " <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">HOME</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"GO 2016.html\">GRAFISCH ONTWERP</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"tekeningen.html\">TEKENINGEN</a></li>   <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"vrienden.html\">VRIENDEN</a></li>   ",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>"
+        },
+        {
+          "_name": "gallery1",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "images": [
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/img-7646-5184x3456-71-2000x1333-49.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-7646-5184x3456-71.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/img-7651-5184x3456-39-2000x1333-62.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-7651-5184x3456-39.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/img-7683-5184x3456-6-2000x1333-22.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-7683-5184x3456-6.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/img-7666-5184x3456-0-2000x1333-41.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-7666-5184x3456-0.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/img-7672-5184x3456-13-2000x1333-33.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-7672-5184x3456-13.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/img-7675-5184x3456-28-2000x1333-27.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-7675-5184x3456-28.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/img-7678-5184x3456-85-2000x1333-74.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-7678-5184x3456-85.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/img-7681-5184x3456-61-2000x1333-34.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-7681-5184x3456-61.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/img-7697-5184x3456-96-2000x1333-9.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-7697-5184x3456-96.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/img-7643-3456x5184-43-2000x3000-55.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-7643-3456x5184-43.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/img-7702-5184x3456-5-2000x1333-55.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-7702-5184x3456-5.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/img-7647-3456x5184-57-2000x3000-95.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-7647-3456x5184-57.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/img-7690-5184x3456-96-2000x1333-85.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-7690-5184x3456-96.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/img-7694-3456x5184-75-2000x3000-74.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-7694-3456x5184-75.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/img-7648-3456x5184-9-2000x3000-34.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-7648-3456x5184-9.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/img-7650-3456x5184-9-2000x3000-52.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-7650-3456x5184-9.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/img-7695-3456x5184-83-2000x3000-40.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-7695-3456x5184-83.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/img-7655-5184x3456-32-2000x1333-99.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-7655-5184x3456-32.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/img-7662-3456x5184-37-2000x3000-63.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-7662-3456x5184-37.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/img-7664-3456x5184-32-2000x3000-57.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-7664-3456x5184-32.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/img-7701-3456x5184-58-2000x3000-87.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-7701-3456x5184-58.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/img-7688-3370x5055-73-2000x3000-42.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-7688-3370x5055-73.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/img-7696-3456x5184-19-2000x3000-59.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-7696-3456x5184-19.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/img-7665-5184x3456-81-2000x1333-73.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-7665-5184x3456-81.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/img-7668-3456x5184-73-2000x3000-33.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-7668-3456x5184-73.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/img-7669-3456x5184-63-2000x3000-8.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-7669-3456x5184-63.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/img-7671-5184x3456-59-2000x1333-19.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-7671-5184x3456-59.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/img-7686-4800x3066-18-2000x1278-33.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-7686-4800x3066-18.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/img-7699-3456x5184-15-2000x3000-60.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-7699-3456x5184-15.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/img-7674-5184x3456-64-2000x1333-78.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-7674-5184x3456-64.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/img-7679-3456x5184-67-2000x3000-76.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-7679-3456x5184-67.jpg",
+                "active": true
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/img-7682-5184x3456-57-2000x1333-43.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-7682-5184x3456-57.jpg",
+                "active": false
+              }
+            ],
+            "showText": false,
+            "bgColor": "#efefef",
+            "fullWidth": false,
+            "noGutter": true
+          },
+          "_anchor": "gallery1-39",
+          "articleLayout": false
+        }
+      ]
+    },
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "home",
+        "meta_descr": "Jolien Wallenus, home, over, grafisch ontwerp, tekeningen, contact, friends, student luca, Wallenus Jolien, Leuven, Gent, 1995",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#ffffff"
+            },
+            ".mbr-navbar__section": {
+              "background": "#ffffff"
+            },
+            ".mbr-navbar__items a": {
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "font-size": "14px"
+            },
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            }
+          },
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-0",
+          "_params": {
+            "color": "#ffffff",
+            "hamburgerColor": "#ffffff",
+            "transparent": false,
+            "sticky": false,
+            "collapsed": false,
+            "logo": false,
+            "showBrand": false,
+            "showButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "images/logo.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
+          "items": " <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">HOME</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"GO 2016.html\">GRAFISCH ONTWERP</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"tekeningen.html\">TEKENINGEN</a></li>   <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"vrienden.html\">VRIENDEN</a></li>   ",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>"
+        },
+        {
+          "_inherit": "header1",
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_name": "header4",
+          "_styles": {
+            "H1": {
+              "color": "#ffffff",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+            },
+            "P": {
+              "color": "#efefef",
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "font-size": "20px"
+            },
+            "SPAN": {
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "font-size": "60px"
+            }
+          },
+          "_anchor": "header4-2",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/img-5701-3456x5184-83-2000x3000-8.jpg",
+            "bgColor": "#292cb0",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "contentAlign": "left",
+            "overlay": false,
+            "overlayOpacity": "0.5",
+            "overlayColor": "#ffffff",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "showArrow": false
+          },
+          "title": "<span style=\"font-weight: normal;\">WALLENUS JOLIEN</span>",
+          "text": "Leeft en werkt @ Leuven &amp; Gent<br>°1995<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://mobirise.com\">FOR MAC</a>"
+        },
+        {
+          "_inherit": "header1",
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_name": "header4",
+          "_styles": {
+            "H1": {
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "font-size": "46px"
+            },
+            "P": {
+              "font-family": "'Arimo', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Arimo:400,700"
+            }
+          },
+          "_anchor": "header4-5",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/img-5707-5184x3456-8.jpg",
+            "bgColor": "#4c6972",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "contentAlign": "left",
+            "overlay": false,
+            "overlayOpacity": "0.5",
+            "overlayColor": "#ffffff",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "showArrow": true
+          },
+          "title": "Hallo,",
+          "text": "mijn naam is Jolien.<br>Ik ben een student grafisch ontwerp in mijn 3de jaar, <br>op LUCA School of Arts Gent. Deze website is een <br>selectie van mijn werk van de laatste drie jaar. Het bevat alle soorten werk. Ik ben altijd op zoek naar interessante samenwerkingen, freelance banen of iets daar tussenin. Aarzel dus zeker niet om contact met me op te nemen <br>voor meer informatie over mijn werken.",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://mobirise.com\">FOR MAC</a>"
+        },
+        {
+          "_inherit": "header1",
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_name": "header4",
+          "_styles": {
+            "H1": {
+              "font-size": "36px",
+              "font-family": "'PT Sans Narrow', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700"
+            }
+          },
+          "_anchor": "header4-6",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/img-5708-5184x3456-30-2000x1333-32.jpg",
+            "bgColor": "#3029b0",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "contentAlign": "center",
+            "overlay": false,
+            "overlayOpacity": "0.5",
+            "overlayColor": "#ffffff",
+            "showTitle": true,
+            "showText": false,
+            "showButtons": true,
+            "showArrow": false
+          },
+          "title": "Grafisch Ontwerp",
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-default\" href=\"page1.html\" data-toolbar=\"-mbrBtnMove\">—2014—</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"page2.html\" data-toolbar=\"-mbrBtnMove\">—2015—</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"page3.html\" data-toolbar=\"-mbrBtnMove\">—2016—</a>"
+        },
+        {
+          "_inherit": "header1",
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_name": "header4",
+          "_styles": {
+            "H1": {
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "font-size": "36px"
+            }
+          },
+          "_anchor": "header4-7",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/img-5702-3456x5184-21.jpg",
+            "bgColor": "#f0f764",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "contentAlign": "center",
+            "overlay": false,
+            "overlayOpacity": "0.5",
+            "overlayColor": "#ffffff",
+            "showTitle": true,
+            "showText": false,
+            "showButtons": true,
+            "showArrow": false
+          },
+          "title": "<span style=\"font-weight: normal;\">Tekeningen</span>",
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-default\" href=\"page4.html\" data-toolbar=\"-mbrBtnMove\">—bekijk het HIER—</a>  "
+        },
+        {
+          "_inherit": "header1",
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_name": "header4",
+          "_styles": {
+            "H1": {
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "font-size": "36px"
+            },
+            "I": {
+              "font-size": "46px"
+            }
+          },
+          "_anchor": "header4-8",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/img-5706-5184x3456-22.jpg",
+            "bgColor": "#4c6972",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "contentAlign": "center",
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#ffffff",
+            "showTitle": true,
+            "showText": false,
+            "showButtons": true,
+            "showArrow": true
+          },
+          "title": "<span style=\"font-weight: normal;\">Grafiek</span><br><span style=\"font-weight: normal;\">&amp; </span><br><span style=\"font-weight: normal;\">Schilderwerk</span>",
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">—bekijk het HIER—</a> "
+        },
+        {
+          "_name": "form1",
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "form1-12",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/img-5701-3456x5184-83-2000x3000-88.jpg",
+            "bgColor": "#848484",
+            "bgColorRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.1",
+            "overlayColor": "#ffffff",
+            "showTitle": true
+          },
+          "title": "CONTACT",
+          "form": {
+            "action": "",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": true,
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-lg btn-default\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">CONTACTEER MIJ</a>"
+        },
+        {
+          "_inherit": "msg-box1",
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "color": "#ffffff",
+              "font-size": "16px"
+            },
+            ".mbr-article": {
+              "color": "#252525"
+            },
+            ".btn": {
+              "font-size": "20px"
+            }
+          },
+          "_name": "msg-box2",
+          "_anchor": "msg-box2-23",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/img-5706-5184x3456-22-2000x1333-77.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.3",
+            "overlayColor": "#ffffff",
+            "showTitle": true,
+            "showText": false,
+            "showButtons": true
+          },
+          "title": "Show this website in English",
+          "text": "",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://googledrive.com/host/0B2DAvdev2nT2cVJwaE12SXNHYTQ/\" data-toolbar=\"-mbrBtnMove\">EN</a>"
+        },
+        {
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "footer1-22",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/img-5701-3456x5184-83-2000x3000-30.jpg",
+            "bgColor": "#444444",
+            "bgColorRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.3",
+            "overlayColor": "#ffffff"
+          },
+          "text": "Copyright (c) 2015 Company Name.&nbsp;&nbsp;<a class=\"mbr-footer__link text-white\" href=\"https://mobirise.com/\">Privacy Policy</a>&nbsp;<a rel=\"license\" href=\"http://creativecommons.org/licenses/by-nc-nd/4.0/\"><img alt=\"Creative Commons License\" src=\"https://i.creativecommons.org/l/by-nc-nd/4.0/80x15.png\"></a><br>This work is licensed under a &nbsp;<a rel=\"license\" href=\"http://creativecommons.org/licenses/by-nc-nd/4.0/\" class=\"text-white\">Creative Commons</a><br>"
+        }
+      ]
+    },
+    "page6.html": {
+      "settings": {
+        "title": "grafisch ontwerp 2015"
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#ffffff"
+            },
+            ".mbr-navbar__section": {
+              "background": "#ffffff"
+            },
+            ".mbr-navbar__items a": {
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "font-size": "14px"
+            }
+          },
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-23",
+          "_params": {
+            "color": "#ffffff",
+            "hamburgerColor": "#ffffff",
+            "transparent": false,
+            "sticky": false,
+            "collapsed": false,
+            "logo": false,
+            "showBrand": false,
+            "showButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "images/logo.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
+          "items": " <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">HOME</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"GO 2016.html\">GRAFISCH ONTWERP</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"tekeningen.html\">TEKENINGEN</a></li>   <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"vrienden.html\">VRIENDEN</a></li>   ",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>"
+        },
+        {
+          "_name": "buttons1",
+          "_styles": {
+            ".btn": {
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+            }
+          },
+          "_anchor": "buttons1-24",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"page1.html\" data-toolbar=\"-mbrBtnMove\">—2014—</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"page2.html\" data-toolbar=\"-mbrBtnMove\">—2015—</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"page3.html\" data-toolbar=\"-mbrBtnMove\">—2016—</a>"
+        },
+        {
+          "_name": "gallery1",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "images": [
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/a2-1000x667-55-1000x667-62.jpg",
+                "image": "@PROJECT_PATH@/assets/images/a2-1000x667-55.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/a1-500x750-70-500x750-74.jpg",
+                "image": "@PROJECT_PATH@/assets/images/a1-500x750-70.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/a3-1000x667-20-1000x667-71.jpg",
+                "image": "@PROJECT_PATH@/assets/images/a3-1000x667-20.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/img-7542-5184x3456-23-2000x1333-0.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-7542-5184x3456-23.jpg",
+                "active": true
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/img-7546-5184x3456-85-2000x1333-74.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-7546-5184x3456-85.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/img-7553-5184x3456-13-2000x1333-12.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-7553-5184x3456-13.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/img-7558-5184x3456-10-2000x1333-56.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-7558-5184x3456-10.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/img-7562-5184x3456-16-2000x1333-69.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-7562-5184x3456-16.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/img-7566-5184x3456-82-2000x1333-53.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-7566-5184x3456-82.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/img-7570-5184x3456-99-2000x1333-84.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-7570-5184x3456-99.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/img-7572-5184x3456-72-2000x1333-86.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-7572-5184x3456-72.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/img-7573-5184x3456-24-2000x1333-99.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-7573-5184x3456-24.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/img-7575-5184x3456-17-2000x1333-13.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-7575-5184x3456-17.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/img-7582-5184x3456-85-2000x1333-70.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-7582-5184x3456-85.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/img-7589-5184x3456-96-2000x1333-14.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-7589-5184x3456-96.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/img-7593-4613x3456-8-2000x1498-15.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-7593-4613x3456-8.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/img-7554-5184x3456-74-2000x1333-86.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-7554-5184x3456-74.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/img-7561-5184x3456-6-2000x1333-38.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-7561-5184x3456-6.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/img-7577-5184x3456-25-2000x1333-55.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-7577-5184x3456-25.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/img-7580-5184x3456-77-2000x1333-40.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-7580-5184x3456-77.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/img-7584-5184x3456-28-2000x1333-83.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-7584-5184x3456-28.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/img-7591-4471x3393-73-2000x1518-80.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-7591-4471x3393-73.jpg",
+                "active": false
+              }
+            ],
+            "showText": false,
+            "bgColor": "#ffffff",
+            "fullWidth": false,
+            "noGutter": false
+          },
+          "_anchor": "gallery1-25",
+          "articleLayout": false
+        }
+      ]
+    },
+    "GO2015.html": {
+      "settings": {
+        "title": "grafisch ontwerp 2015"
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#ffffff"
+            },
+            ".mbr-navbar__section": {
+              "background": "#ffffff"
+            },
+            ".mbr-navbar__items a": {
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "font-size": "14px"
+            },
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            }
+          },
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-0",
+          "_params": {
+            "color": "#ffffff",
+            "hamburgerColor": "#ffffff",
+            "transparent": false,
+            "sticky": false,
+            "collapsed": false,
+            "logo": false,
+            "showBrand": false,
+            "showButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "images/logo.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
+          "items": " <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">HOME</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"GO 2016.html\">GRAFISCH ONTWERP</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"tekeningen.html\">TEKENINGEN</a></li>   <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"vrienden.html\">VRIENDEN</a></li>   ",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>"
+        },
+        {
+          "_name": "buttons1",
+          "_styles": {
+            ".btn": {
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+            }
+          },
+          "_anchor": "buttons1-32",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"page1.html\" data-toolbar=\"-mbrBtnMove\">—2014—</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"page2.html\" data-toolbar=\"-mbrBtnMove\">—2015—</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"page3.html\" data-toolbar=\"-mbrBtnMove\">—2016—</a>"
+        },
+        {
+          "_name": "gallery1",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "images": [
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/a2-1000x667-55-1000x667-62.jpg",
+                "image": "@PROJECT_PATH@/assets/images/a2-1000x667-55.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/a1-500x750-70-500x750-74.jpg",
+                "image": "@PROJECT_PATH@/assets/images/a1-500x750-70.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/a3-1000x667-20-1000x667-71.jpg",
+                "image": "@PROJECT_PATH@/assets/images/a3-1000x667-20.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/img-7542-5184x3456-23-2000x1333-0.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-7542-5184x3456-23.jpg",
+                "active": true
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/img-7546-5184x3456-85-2000x1333-74.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-7546-5184x3456-85.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/img-7553-5184x3456-13-2000x1333-12.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-7553-5184x3456-13.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/img-7558-5184x3456-10-2000x1333-56.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-7558-5184x3456-10.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/img-7562-5184x3456-16-2000x1333-69.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-7562-5184x3456-16.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/img-7566-5184x3456-82-2000x1333-53.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-7566-5184x3456-82.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/img-7570-5184x3456-99-2000x1333-84.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-7570-5184x3456-99.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/img-7572-5184x3456-72-2000x1333-86.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-7572-5184x3456-72.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/img-7573-5184x3456-24-2000x1333-99.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-7573-5184x3456-24.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/img-7575-5184x3456-17-2000x1333-13.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-7575-5184x3456-17.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/img-7582-5184x3456-85-2000x1333-70.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-7582-5184x3456-85.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/img-7589-5184x3456-96-2000x1333-14.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-7589-5184x3456-96.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/img-7593-4613x3456-8-2000x1498-15.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-7593-4613x3456-8.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/img-7554-5184x3456-74-2000x1333-86.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-7554-5184x3456-74.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/img-7561-5184x3456-6-2000x1333-38.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-7561-5184x3456-6.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/img-7577-5184x3456-25-2000x1333-55.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-7577-5184x3456-25.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/img-7580-5184x3456-77-2000x1333-40.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-7580-5184x3456-77.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/img-7584-5184x3456-28-2000x1333-83.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-7584-5184x3456-28.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/img-7591-4471x3393-73-2000x1518-80.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-7591-4471x3393-73.jpg",
+                "active": false
+              }
+            ],
+            "showText": false,
+            "bgColor": "#ffffff",
+            "fullWidth": false,
+            "noGutter": false
+          },
+          "_anchor": "gallery1-31",
+          "articleLayout": false
+        }
+      ]
+    },
+    "GO2016.html": {
+      "settings": {
+        "title": "grafisch ontrwerp 2016",
+        "meta_descr": "grafisch ontwerp, 2016, vriendenboek, drift, huisstijl"
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#ffffff"
+            },
+            ".mbr-navbar__section": {
+              "background": "#ffffff"
+            },
+            ".mbr-navbar__items a": {
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "font-size": "14px"
+            },
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            }
+          },
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-0",
+          "_params": {
+            "color": "#ffffff",
+            "hamburgerColor": "#ffffff",
+            "transparent": false,
+            "sticky": false,
+            "collapsed": false,
+            "logo": false,
+            "showBrand": false,
+            "showButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "images/logo.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
+          "items": " <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">HOME</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"GO 2016.html\">GRAFISCH ONTWERP</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"tekeningen.html\">TEKENINGEN</a></li>   <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"vrienden.html\">VRIENDEN</a></li>   ",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>"
+        },
+        {
+          "_name": "buttons1",
+          "_anchor": "buttons1-34",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"page1.html\" data-toolbar=\"-mbrBtnMove\">—2014—</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"page2.html\" data-toolbar=\"-mbrBtnMove\">—2015—</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"page3.html\" data-toolbar=\"-mbrBtnMove\">—2016—</a>"
+        },
+        {
+          "_name": "gallery1",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "images": [
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/img-7631-4793x3195-3-2000x1333-14.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-7631-4793x3195-3.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/img-7600-3286x4929-90-2000x3000-25.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-7600-3286x4929-90.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/img-7635-5184x3456-86-2000x1333-27.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-7635-5184x3456-86.jpg",
+                "active": true
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/img-7602-3332x4998-61-2000x3000-59.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-7602-3332x4998-61.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/img-7604-3078x4742-87-2000x3081-49.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-7604-3078x4742-87.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/img-7604-3078x4742-87-2000x3081-49.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-7604-3078x4742-87.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/img-7632-4619x3079-79-2000x1333-74.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-7632-4619x3079-79.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/img-7526-5074x3383-41-2000x1333-79.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-7526-5074x3383-41.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/img-7527-5184x3456-96-2000x1333-51.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-7527-5184x3456-96.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/img-7598-copy-3456x5184-3-2000x3000-43.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-7598-copy-3456x5184-3.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/img-7535-5184x3456-63-2000x1333-64.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-7535-5184x3456-63.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/img-7536-5184x3456-40-2000x1333-38.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-7536-5184x3456-40.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/img-7538-5184x3456-90-2000x1333-16.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-7538-5184x3456-90.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/img-7595-5184x3456-64-2000x1333-66.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-7595-5184x3456-64.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/img-7539-5184x3456-0-2000x1333-1.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-7539-5184x3456-0.jpg",
+                "active": false
+              }
+            ],
+            "showText": false,
+            "bgColor": "#efefef",
+            "fullWidth": false,
+            "noGutter": true
+          },
+          "_anchor": "gallery1-35",
+          "articleLayout": false
+        }
+      ]
+    },
+    "GO2014.html": {
+      "settings": {
+        "title": "grafisch ontwerp 2014",
+        "meta_descr": "Grafisch Ontwerp, 2014, wallenus jolien"
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#ffffff"
+            },
+            ".mbr-navbar__section": {
+              "background": "#ffffff"
+            },
+            ".mbr-navbar__items a": {
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "font-size": "14px"
+            },
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            }
+          },
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-0",
+          "_params": {
+            "color": "#ffffff",
+            "hamburgerColor": "#ffffff",
+            "transparent": false,
+            "sticky": false,
+            "collapsed": false,
+            "logo": false,
+            "showBrand": false,
+            "showButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "images/logo.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
+          "items": " <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">HOME</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"GO 2016.html\">GRAFISCH ONTWERP</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"tekeningen.html\">TEKENINGEN</a></li>   <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"vrienden.html\">VRIENDEN</a></li>   ",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>"
+        },
+        {
+          "_name": "buttons1",
+          "_anchor": "buttons1-28",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"page1.html\" data-toolbar=\"-mbrBtnMove\">2014</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"page2.html\" data-toolbar=\"-mbrBtnMove\">2015</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"page3.html\" data-toolbar=\"-mbrBtnMove\">2016</a>"
+        },
+        {
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_name": "slider",
+          "_params": {
+            "autoplay": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "slides": [
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/c1-1000x682-50.jpg",
+                "showTitle": false,
+                "title": "Slide 1",
+                "showText": false,
+                "text": "Develop fully responsive, mobile-optimized websites that look amazing on any devices and browsers. Preview how your website will appear on phones, tablets and desktops directly in the visual editor.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/a1-1000x666-18.jpg",
+                "showTitle": false,
+                "title": "Slide 2",
+                "showText": false,
+                "text": "Mobirise is based on Bootstrap 3 - most powerful mobile first framework. Use any bootstrap themes with no extra work.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/a2-1000x667-28.jpg",
+                "showTitle": false,
+                "title": "Slide 3",
+                "showText": false,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/a3-1000x667-69.jpg",
+                "showTitle": false,
+                "title": "Slide 3",
+                "showText": false,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/b2-1000x667-99.jpg",
+                "showTitle": false,
+                "title": "Slide 3",
+                "showText": false,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/b1-1000x667-9.jpg",
+                "showTitle": false,
+                "title": "Slide 3",
+                "showText": false,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              }
+            ],
+            "fullScreen": false,
+            "bgColor": "#ffffff",
+            "showBullets": true
+          },
+          "_anchor": "slider-25",
+          "articleLayout": false
+        }
+      ]
+    }
+  }
+}
