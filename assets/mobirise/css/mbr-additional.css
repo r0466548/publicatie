@@ -18,6 +18,9 @@
   font-family: 'Oswald', sans-serif;
   font-size: 14px;
 }
+#ext_menu-0 .mbr-navbar__hamburger {
+  color: #ffffff;
+}
 #buttons1-18 .btn {
   font-family: 'Oswald', sans-serif;
 }
@@ -37,6 +40,9 @@
 #ext_menu-0 .mbr-navbar__items a {
   font-family: 'Oswald', sans-serif;
   font-size: 14px;
+}
+#ext_menu-0 .mbr-navbar__hamburger {
+  color: #ffffff;
 }
 
 
@@ -113,24 +119,6 @@
 }
 #footer1-22 P {
   color: #ffffff;
-}
-
-
-#ext_menu-23 .mbr-brand__name {
-  font-size: 16px;
-}
-#ext_menu-23.mbr-navbar--stuck .mbr-navbar__section {
-  background: #ffffff;
-}
-#ext_menu-23 .mbr-navbar__section {
-  background: #ffffff;
-}
-#ext_menu-23 .mbr-navbar__items a {
-  font-family: 'Oswald', sans-serif;
-  font-size: 14px;
-}
-#buttons1-24 .btn {
-  font-family: 'Oswald', sans-serif;
 }
 
 
